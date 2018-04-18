@@ -1,0 +1,2 @@
+# goList
+simple go demo
